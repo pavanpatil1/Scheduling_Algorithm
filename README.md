@@ -4,3 +4,4 @@
 # SJF PRIMPTIVE NON PRIMPTIVE
 # PRIORITY QUEUE
 # ROUND ROBIN
+All scheduling algorithms are present here.
